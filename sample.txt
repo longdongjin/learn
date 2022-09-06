@@ -1,7 +1,4 @@
 猴子都能懂的git
 add 把变更录入索引中
-<<<<<<< HEAD
 commmit 记录索引的状态
-=======
 pull 去的远端数据库的内容
->>>>>>> 75f5c6aaa4e72be02760ff3819fa220ad4dcdf4c
